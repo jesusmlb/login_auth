@@ -4,7 +4,7 @@
 A web application demonstrating Python, HTML, and CSS development skills with advanced technical features.
 
 ## Technologies Used
-- **Backend**: Python, FastAPI
+- **Backend**: Python, Flask API
 - **Frontend**: HTML, CSS
 - **Database**: CUDA operations
 - **Template Engine**: Jinja
